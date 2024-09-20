@@ -14,7 +14,7 @@ Sometimes the RESTFul APIs cannot fit my needs, in that situation I would use Gr
 I usually test my open-source project on browsers,like:<br/>
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
-- Deploying with GitHub Actions
+- Deploying with GitHub Actions<br/>
 The GitHub Actions offers features that control deployments, such as custom continuous deployment (CD) workflows.<br/>
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
