@@ -11,13 +11,13 @@ Sometimes the RESTFul APIs cannot fit my needs, in that situation I would use Gr
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 
-I usually test my open-source project on browsers,like:
+I usually test my open-source project on browsers,like:<br/>
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 - Deploying with GitHub Actions
-The GitHub Actions offers features that control deployments, such as custom continuous deployment (CD) workflows.
+The GitHub Actions offers features that control deployments, such as custom continuous deployment (CD) workflows.<br/>
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-- Databases for organizing information
+- Databases for organizing information<br/>
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
