@@ -1,7 +1,7 @@
 https://readme-typing-svg.demolab.com/demo/?lines=Hello%2C+I'm+paulcq6173.;I+am+a+Full-Stack+Starter.;Have+some+projects+that+built+with+React.js.
 
 I'm currently learning Next.js and Nx for better DX and performance, and choose Cloudflare for deploy projects.
-Sometimes the RESTFul APIs cannot fit my needs, in that situation I would use GraphQL instead.
+Sometimes the RESTFul APIs cannot fit my needs, in that situation I would use GraphQL instead.<br/>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
